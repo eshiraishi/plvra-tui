@@ -17,7 +17,7 @@ Você precisa adivinhar uma palavra de cinco letras em no máximo seis tentativa
 ### PyPI
 
 ```shell
-pip install plvra
+pip install -i https://test.pypi.org/simple/ plvra
 ```
 
 ### A partir do código fonte
@@ -57,7 +57,7 @@ You have to guess a five letter word in at most six tries. On each wrong try, yo
 ### PyPI
 
 ```shell
-pip install plvra
+pip install -i https://test.pypi.org/simple/ plvra
 ```
 
 ### From source
